@@ -1,4 +1,4 @@
-# MERN application with CI-CD pipeline
+# MERN application with CI-CD pipeline.
 
 ## Continuous Delivery pipeline and monitoring for a MERN application
 
